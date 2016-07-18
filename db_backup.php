@@ -20,7 +20,7 @@ rsort($dirArray);
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
                 <channel>
                         <title>SITENAME ~ DB Backup</title>
-                        <link>https://SITENAME/FOLDER/PHPFILENAME.php</link>
+                        <link>https://SITENAME/FOLDER/THISDOCUMENTSFILENAME.php</link>
                         <description>RSS DB Backup Feed</description>
                         <language>en</language>';
                         echo "\n";
